@@ -1,0 +1,7 @@
+variavel_nome = input("qual e seu nome?")
+variavel_endereço = input("qual e seu endereço?")
+variavel_profissão = input("qual e sua profisao?")
+#print(f"Nome: {variavel_nome} Endereço:  {variavel_endereço} Profissão:  {variavel_profissão}")
+print(f"nome: {variavel_nome}")
+print(f"endereço: {variavel_endereço}")
+print(f"profissão: {variavel_profissão}")
